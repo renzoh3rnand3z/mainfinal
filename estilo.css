@@ -36,7 +36,7 @@ main{
     border-radius: 5%;
     -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
-    background-color: rgb(25, 67, 34);
+    background-color: #104a38
 
 }
 
@@ -119,6 +119,7 @@ main{
     background: #F2F2F2;
     font-size: 16px;
     outline: none;
+    
 }
 
 .contenedor__login-register form button{
